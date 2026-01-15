@@ -1,0 +1,1176 @@
+{
+  "questions": [
+    {
+      "id": "q_alienspecies_easy_1",
+      "theme": "alienspecies",
+      "difficulty": "EASY",
+      "question": "「外来生物（がいらいせいぶつ）」ってどんな生き物のこと？",
+      "options": [
+        "宇宙からやってきた生き物",
+        "お店で売っているぬいぐるみ",
+        "外国や別の場所から連れてこられた生き物",
+        "日本にむかしから住んでいる生き物"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。もともとその場所にはいなかったのに、人間によって運ばれてきた生き物のことを言うニャ。",
+        "incorrect": "残念ニャ！正解は「外国や別の場所から連れてこられた生き物」だニャ！もともとその場所にはいなかったのに、人間によって運ばれてきた生き物のことを言うニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_alienspecies_easy_2",
+      "theme": "alienspecies",
+      "difficulty": "EASY",
+      "question": "外来生物を増やさないための「3つの約束」、間違っているのはどれ？",
+      "options": [
+        "広げない",
+        "どこにでも逃がしてあげる",
+        "外から入れない",
+        "捨てない"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！実は……「逃がす」のは「捨てない」という約束に違反するニャ。自然を守るために、一度飼ったら最後まで大切にしようニャ。",
+        "incorrect": "残念ニャ！正解は「どこにでも逃がしてあげる」だニャ！「逃がす」のは「捨てない」という約束に違反するニャ。自然を守るために、一度飼ったら最後まで大切にしようニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_alienspecies_easy_3",
+      "theme": "alienspecies",
+      "difficulty": "EASY",
+      "question": "ウシガエルは、もともと何のために日本に来たの？",
+      "image": "images/ushigaeru.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      "options": [
+        "飛行機を操縦するため",
+        "歌を歌わせるため",
+        "食べるため（食用）",
+        "ペットとして"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。1918年ごろ、食べるために連れてこられたニャ。今は野原や池で野生化しているニャ。",
+        "incorrect": "残念ニャ！正解は「食べるため（食用）」だニャ！1918年ごろ、食べるために連れてこられたニャ。今は野原や池で野生化しているニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_alienspecies_easy_4",
+      "theme": "alienspecies",
+      "difficulty": "EASY",
+      "question": "ミシシッピアカミミガメは、もともとどうやって日本に来たの？",
+      "image": "images/akamimi.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      "options": [
+        "雲に乗ってやってきた",
+        "船の底についてきた",
+        "自分で海を泳いできた",
+        "ペットとして連れてこられた"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。1950年代からペットとして人気だったけど、捨てられたカメが自然の中で増えてしまったニャ。",
+        "incorrect": "残念ニャ！正解は「ペットとして連れてこられた」だニャ！1950年代からペットとして人気だったけど、捨てられたカメが自然の中で増えてしまったニャ。"  
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_alienspecies_easy_5",
+      "theme": "alienspecies",
+      "difficulty": "EASY",
+      "question": "東広島市で見られる、コスモスに似た黄色い花の名前は？",
+      "image": "images/okinkeigiku.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      "options": [
+        "カボチャの花",
+        "オオキンケイギク",
+        "ヒマワリ",
+        "タンポポ"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。とてもきれいな花だけど、繁殖力が強すぎて他の植物を困らせているニャ。",
+        "incorrect": "残念ニャ！正解は「オオキンケイギク」だニャ！とてもきれいな花だけど、繁殖力が強すぎて他の植物を困らせているニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_alienspecies_easy_6",
+      "theme": "alienspecies",
+      "difficulty": "EASY",
+      "question": "カミツキガメに触ろうとするのはどうして危ないの？",
+      "image": "images/kamitsukigame.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      "options": [
+        "気性が荒くて噛まれると大けがをするから",
+        "触ると透明になるから",
+        "毒ガスを出すから",
+        "とても足が速いから"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。とても力が強くて危ないから、見つけても絶対に近づかないでニャ！",
+        "incorrect": "残念ニャ！正解は「気性が荒くて噛まれると大けがをするから」だニャ！とても力が強くて危ないから、見つけても絶対に近づかないでニャ！"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_alienspecies_easy_7",
+      "theme": "alienspecies",
+      "difficulty": "EASY",
+      "question": "アライグマはどんなところに住んでいるかな？",
+      "image": "images/araiguma.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      "options": [
+        "深い海の底",
+        "雲の上",
+        "水辺（川や森の近く）",
+        "火山の中"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。森や湿地だけでなく、最近は街の中でも見かけることがあるニャ。",
+        "incorrect": "残念ニャ！正解は「水辺（川や森の近く）」だニャ！森や湿地だけでなく、最近は街の中でも見かけることがあるニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_alienspecies_easy_8",
+      "theme": "alienspecies",
+      "difficulty": "EASY",
+      "question": "北海道にいるカブトムシは、実は「外来生物」なんだって。どうしてかな？",
+      "image": "images/kabuto.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      "options": [
+        "サイボーグだから",
+        "もともと北海道にはいなかったのに、人が持ち込んだから",
+        "外国から来たから",
+        "宇宙から来たから"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。同じ日本の中でも、もともといなかった場所に運ばれると「外来生物」になるニャ。",
+        "incorrect": "残念ニャ！正解は「もともと北海道にはいなかったのに、人が持ち込んだから」だニャ！同じ日本の中でも、もともといなかった場所に運ばれると「外来生物」になるニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_alienspecies_easy_9",
+      "theme": "alienspecies",
+      "difficulty": "EASY",
+      "question": "お家で飼っている外来生物が飼えなくなったら、どうすればいい？",
+      "options": [
+        "魔法で消す",
+        "山に置いてくる",
+        "最後まで飼ってくれる人を探す",
+        "近くの池に逃がす"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。逃がすと生態系を壊してしまうから、責任を持って新しい飼い主を探そうニャ。",
+        "incorrect": "残念ニャ！正解は「最後まで飼ってくれる人を探す」だニャ！逃がすと生態系を壊してしまうから、責任を持って新しい飼い主を探そうニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_alienspecies_easy_10",
+      "theme": "alienspecies",
+      "difficulty": "EASY",
+      "question": "ヌートリアは、何のために日本に連れてこられた？",
+      "image": "images/nutria.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+
+      "options": [
+        "警察犬にするため",
+        "毛皮（けがわ）の材料にするため",
+        "算数を教えるため",
+        "レースに出るため"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。1940年ごろ、軍隊の服などに使う毛皮のために連れてこられたニャ。",
+        "incorrect": "残念ニャ！正解は「毛皮（けがわ）の材料にするため」だニャ！1940年ごろ、軍隊の服などに使う毛皮のために連れてこられたニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_alienspecies_normal_1",
+      "theme": "alienspecies",
+      "difficulty": "NORMAL",
+      "question": "法律で飼育や輸入が厳しく制限されている、特に影響が大きい外来生物を何と呼ぶ？",
+      "options": [
+        "輸出禁止動物",
+        "指定モンスター",
+        "危険生物",
+        "特定外来生物"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。「特定外来生物」は、生態系や人の体、農作物に被害を及ぼす恐れがある生き物のことだニャ。",
+        "incorrect": "残念ニャ！正解は「特定外来生物」だニャ！「特定外来生物」は、生態系や人の体、農作物に被害を及ぼす恐れがある生き物のことだニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_alienspecies_normal_2",
+      "theme": "alienspecies",
+      "difficulty": "NORMAL",
+      "question": "外来種予防3原則の「入れない」とは、具体的にどういうこと？",
+      "options": [
+        "檻（おり）に入れない",
+        "悪影響を与える恐れのある種を、いない地域に入れない",
+        "冷蔵庫に入れない",
+        "自分の家に入れない"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。むやみに新しい場所に持ち込まないことが、自然を守る第一歩なんだニャ。",
+        "incorrect": "残念ニャ！正解は「悪影響を与える恐れのある種を、いない地域に入れない」だニャ！むやみに新しい場所に持ち込まないことが、自然を守る第一歩なんだニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_alienspecies_normal_3",
+      "theme": "alienspecies",
+      "difficulty": "NORMAL",
+      "question": "ウシガエルが日本の池で増えると、どんな問題が起きる？",
+      "image": "images/ushigaeru.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      "options": [
+        "日本のカエルや昆虫が食べられて減ってしまう",
+        "魚がみんな空を飛ぶ",
+        "牛の鳴き声で眠れなくなる",
+        "池の水が全部なくなる"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。ウシガエルは肉食性で、在来の生き物を食べて住みにくくしてしまうんだニャ。",
+        "incorrect": "残念ニャ！正解は「日本のカエルや昆虫が食べられて減ってしまう」だニャ！ウシガエルは肉食性で、在来の生き物を食べて住みにくくしてしまうんだニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_alienspecies_normal_4",
+      "theme": "alienspecies",
+      "difficulty": "NORMAL",
+      "question": "ヌートリアが農作物の他に、堤防やため池に与える被害は？",
+      "image": "images/nutria.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      
+      "options": [
+        "堤防に落書きをする",
+        "水を全部飲んでしまう",
+        "泥棒をする",
+        "巣穴を作って堤防を壊してしまう"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。水辺に穴を掘って住むため、土手が崩れる原因になることがあるんだニャ。",
+        "incorrect": "残念ニャ！正解は「巣穴を作って堤防を壊してしまう」だニャ！水辺に穴を掘って住むため、土手が崩れる原因になることがあるんだニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_alienspecies_normal_5",
+      "theme": "alienspecies",
+      "difficulty": "NORMAL",
+      "question": "アライグマがもともと日本に来た主な理由は？",
+      "image": "images/araiguma.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      
+      "options": [
+        "渡り鳥と一緒に飛んできた",
+        "漁師さんの網にかかった",
+        "貨物船に隠れていた",
+        "動物園やペットとして輸入された"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。1960年代以降にペットとして人気が出たけど、逃げたり捨てられたりして野生化したんだニャ。",
+        "incorrect": "残念ニャ！正解は「動物園やペットとして輸入された」だニャ！1960年代以降にペットとして人気が出たけど、逃げたり捨てられたりして野生化したんだニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_alienspecies_normal_6",
+      "theme": "alienspecies",
+      "difficulty": "NORMAL",
+      "question": "オオキンケイギクが環境に与える悪影響は？",
+      "image": "images/okinkeigiku.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+
+      "options": [
+        "枯れると爆発する",
+        "二酸化炭素を出しすぎる",
+        "繁殖力が強すぎて、もともといた植物の場所を奪う",
+        "毒をまき散らす"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。見た目はきれいだけど、他の植物が育つ場所を占領してしまうんだニャ。",
+       "incorrect": "残念ニャ！正解は「繁殖力が強すぎて、もともといた植物の場所を奪う」だニャ！見た目はきれいだけど、他の植物が育つ場所を占領してしまうんだニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_alienspecies_normal_7",
+      "theme": "alienspecies",
+      "difficulty": "NORMAL",
+      "question": "外来生物予防3原則の2つ目「捨てない」に込められた意味は？",
+      "options": [
+        "古いおもちゃを捨てない",
+        "飼っている外来種を野外に放さない",
+        "食べ残しをしない",
+        "ゴミ箱に捨てない"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。「逃がさない・放さない・逸出（いっしゅつ）させない」ことが大切だニャ。",
+        "incorrect": "残念ニャ！正解は「飼っている外来種を野外に放さない」だニャ！「逃がさない・放さない・逸出（いっしゅつ）させない」ことが大切だニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_alienspecies_normal_8",
+      "theme": "alienspecies",
+      "difficulty": "NORMAL",
+      "question": "ミシシッピアカミミガメが好む環境はどんなところ？",
+      "image": "images/akamimi.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+
+      "options": [
+        "凍った湖",
+        "流れが穏やかで日光浴ができる陸地がある場所",
+        "砂漠のど真ん中",
+        "流れの速い滝"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。穏やかな水域を好むため、日本の池や川の環境にぴったり合って増えてしまったんだニャ。",
+        "incorrect": "残念ニャ！正解は「流れが穏やかで日光浴ができる陸地がある場所」だニャ！穏やかな水域を好むため、日本の池や川の環境にぴったり合って増えてしまったんだニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_alienspecies_normal_9",
+      "theme": "alienspecies",
+      "difficulty": "NORMAL",
+      "question": "アライグマと生息場所や食べ物が重なり、競合（争い）になって困っている日本の動物は？",
+      "image": "images/araiguma.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      "options": [
+        "恐竜",
+        "クジラやイルカ",
+        "ライオンやトラ",
+        "タヌキやキツネ"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。アライグマは雑食で何でも食べるから、日本に昔からいる動物の食べ物を奪ってしまうんだニャ。",
+        "incorrect": "残念ニャ！正解は「タヌキやキツネ」だニャ！アライグマは雑食で何でも食べるから、日本に昔からいる動物の食べ物を奪ってしまうんだニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_alienspecies_normal_10",
+      "theme": "alienspecies",
+      "difficulty": "NORMAL",
+      "question": "日本国内の別の地域から持ち込まれた外来生物のことを何と呼ぶ？",
+      "options": [
+        "国内外来生物",
+        "県外動物",
+        "近所生物",
+        "地域外来種"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。カブトムシの北海道への持ち込みのように、国内での移動も問題になるんだニャ。",
+        "incorrect": "残念ニャ！正解は「国内外来生物」だニャ！カブトムシの北海道への持ち込みのように、国内での移動も問題になるんだニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_alienspecies_hard_1",
+      "theme": "alienspecies",
+      "difficulty": "HARD",
+      "question": "外来生物がもたらす「3つの被害」として正しい組み合わせは？",
+      "options": [
+        "気温の上昇、騒音被害、交通渋滞",
+        "生態系への影響、人の生命・身体への影響、農林水産業への被害",
+        "通信障害、景観の悪化、歴史教育の混乱",
+        "資源の枯渇、人口減少、地殻変動"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。環境だけでなく、私たちの暮らしや経済にも大きなダメージを与える可能性があるんだニャ。",
+        "incorrect": "残念ニャ！正解は「生態系への影響、人の生命・身体への影響、農林水産業への被害」だニャ。環境だけでなく、私たちの暮らしや経済にも大きなダメージを与える可能性があるんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_alienspecies_hard_2",
+      "theme": "alienspecies",
+      "difficulty": "HARD",
+      "question": "オオキンケイギクが日本に導入された時期と目的は？",
+      "image": "images/okinkeigiku.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+
+      "options": [
+        "1880年代、鑑賞や緑化のため",
+        "1945年、食用のため",
+        "1980年、薬を作るため",
+        "2010年、砂漠化を防ぐため"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。明治時代に導入されたけど、あまりの強さに今は「特定外来生物」に指定されているニャ。",
+        "incorrect": "残念ニャ！正解は「1880年代、鑑賞や緑化のため」だニャ。明治時代に導入されたけど、あまりの強さに今は「特定外来生物」に指定されているニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_alienspecies_hard_3",
+      "theme": "alienspecies",
+      "difficulty": "HARD",
+      "question": "ウシガエルが在来生物に与える影響として、正しい説明は？",
+      "image": "images/ushigaeru.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+
+      "options": [
+        "在来のカエルと協力して巣を作る",
+        "鳴き声で仲間の在来種を呼び寄せる",
+        "捕食や餌の取り合いにより、在来種の生息を困難にする",
+        "在来種の天敵を追い払って助ける"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。高い捕食能力によって、地域の生態系バランスを大きく崩してしまうんだニャ。",
+        "incorrect": "残念ニャ！正解は捕食や餌の取り合いにより、在来種の生息を困難にする」だニャ！高い捕食能力によって、地域の生態系バランスを大きく崩してしまうんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_alienspecies_hard_4",
+      "theme": "alienspecies",
+      "difficulty": "HARD",
+      "question": "外来種予防3原則の3つ目「拡げない（ひろげない）」の定義は？",
+      "options": [
+        "すでに野外にいる外来種を他の地域へ広げない",
+        "噂を広めない",
+        "体を大きくしない",
+        "地図を広げない"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。一度野外に出てしまったものを、これ以上分布拡大させない努力が必要なんだニャ。",
+        "incorrect": "残念ニャ！正解は「すでに野外にいる外来種を他の地域へ広げない」だニャ！一度野外に出てしまったものを、これ以上分布拡大させない努力が必要なんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_alienspecies_hard_5",
+      "theme": "alienspecies",
+      "difficulty": "HARD",
+      "question": "ミシシッピアカミミガメが在来のカメと競合する主な要素は？",
+      "image": "images/akamimi.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      "options": [
+        "歌のうまさ",
+        "甲羅の硬さ",
+        "走る速さ",
+        "餌や住みか"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。似たような環境を好む日本固有のカメ（ニホンイシガメなど）が追い出されてしまうんだニャ。",
+        "incorrect": "残念ニャ！正解は「餌や住みか」だニャ！似たような環境を好む日本固有のカメ（ニホンイシガメなど）が追い出されてしまうんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_alienspecies_hard_6",
+      "theme": "alienspecies",
+      "difficulty": "HARD",
+      "question": "ヌートリアが農業に与える主な被害はどれ？",
+      "image": "images/nutria.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+
+      "options": [
+        "イネを中心とした農作物を食べてしまう",
+        "果物を全部盗む",
+        "畑の土を砂漠に変える",
+        "農機具を壊す"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。水生植物を好むため、水田のイネなどが大きな被害を受けているんだニャ。",
+        "incorrect": "残念ニャ！正解は「イネを中心とした農作物を食べてしまう」だニャ！水生植物を好むため、水田のイネなどが大きな被害を受けているんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_alienspecies_hard_7",
+      "theme": "alienspecies",
+      "difficulty": "HARD",
+      "question": "カミツキガメが好む生息環境の特徴として正しいのは？",
+      "image": "images/kamitsukigame.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+      "options": [
+        "流れが速く、岩場だけの環境",
+        "酸素がほとんどない温泉",
+        "木が全くない草原",
+        "流れが穏やかで、水生植物や隠れ場所が豊富な環境"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。こうした環境は日本の里山の水辺に多く、カミツキガメが定着しやすい要因になっているんだニャ。",
+        "incorrect": "残念ニャ！正解は「流れが穏やかで、水生植物や隠れ場所が豊富な環境」だニャ！こうした環境は日本の里山の水辺に多く、カミツキガメが定着しやすい要因になっているんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_alienspecies_hard_8",
+      "theme": "alienspecies",
+      "difficulty": "HARD",
+      "question": "アライグマが都市部から森林まで広く生息できる理由は？",
+      "image": "images/araiguma.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+
+      "options": [
+        "翼があってどこへでも飛べるから",
+        "人間に変装して紛れ込んでいるから",
+        "普通より長く冬眠しているから",
+        "雑食性で様々なものを餌にできるから"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。適応力が高いため、あらゆる環境で他の動植物に影響を与えてしまうんだニャ。",
+        "incorrect": "残念ニャ！正解は「雑食性で様々なものを餌にできるから」だニャ。適応力が高いため、あらゆる環境で他の動植物に影響を与えてしまうんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_alienspecies_hard_9",
+      "theme": "alienspecies",
+      "difficulty": "HARD",
+      "question": "1940年頃にヌートリアが軍用毛皮として導入された際、期待されていた用途は？",
+      "image": "images/nutria.jpg",
+      "imageSource": "環境省「外来生物写真集」（https://www.env.go.jp/nature/intro/4document/asimg.html）",
+
+      "options": [
+        "飛行士の防寒服などの材料",
+        "潜水艦の燃料",
+        "伝書鳩の代わり",
+        "戦車を隠すための網"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。歴史的な背景によって持ち込まれた生き物が、今も環境問題として残っているんだニャ。",
+        "incorrect": "残念ニャ！正解は「飛行士の防寒服などの材料」だニャ。歴史的な背景によって持ち込まれた生き物が、今も環境問題として残っているんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_alienspecies_hard_10",
+      "theme": "alienspecies",
+      "difficulty": "HARD",
+      "question": "特定外来生物を野外に放つことは、法律でどう扱われている？",
+      "options": [
+        "善行として褒められる",
+        "自由に行ってよい",
+        "厳しく制限（禁止）されており、罰則もある",
+        "許可なく放しても全く問題ない"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。外来生物法という法律によって、生態系を守るために厳しく管理されているんだニャ。",
+        "incorrect": "残念ニャ！正解は「厳しく制限（禁止）されており、罰則もある」だニャ。外来生物法という法律によって、生態系を守るために厳しく管理されているんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_energy_easy_1",
+      "theme": "energy",
+      "difficulty": "EASY",
+      "question": "私たちの生活で、明かりをつけたり物を動かしたりするのに必要なものは何？",
+      "options": [
+        "ガス",
+        "お水",
+        "電気",
+        "魔法"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。おうちの中にあるテレビや冷蔵庫も、電気で動いているんだニャ。",
+        "incorrect": "残念ニャ！正解は「電気」だニャ！おうちの中にあるテレビや冷蔵庫も、電気で動いているんだニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_energy_easy_2",
+      "theme": "energy",
+      "difficulty": "EASY",
+      "question": "太陽の光を使って電気を作るのはどれかな？",
+      "options": [
+        "火力発電",
+        "水力発電",
+        "太陽光発電",
+        "宇宙人パワー"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。おうちの屋根にパネルがついているのを見たことがあるかなニャ？",
+        "incorrect": "残念ニャ！正解は「太陽光発電」だニャ！おうちの屋根にパネルがついているのを見たことがあるかなニャ？"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_energy_easy_3",
+      "theme": "energy",
+      "difficulty": "EASY",
+      "question": "風の力で大きな「風車」を回して電気を作るのはどれ？",
+      "options": [
+        "扇風機",
+        "風力発電",
+        "うちわ",
+        "息をふーっとふく"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。24時間、風さえあればいつでも電気を作ることができるんだニャ。",
+       "incorrect": "残念ニャ！正解は「風力発電」だニャ！24時間、風さえあればいつでも電気を作ることができるんだニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_energy_easy_4",
+      "theme": "energy",
+      "difficulty": "EASY",
+      "question": "ダムなどでお水の流れる力を使って電気を作るのはどれ？",
+      "options": [
+        "水力発電",
+        "火力発電",
+        "地熱発電",
+        "ジョウロでお水をかける"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。水の力を使うと、二酸化炭素（にさんかたんそ）を出さずに電気を作れるニャ。",
+       "incorrect": "残念ニャ！正解は「水力発電」だニャ！水の力を使うと、二酸化炭素（にさんかたんそ）を出さずに電気を作れるニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_energy_easy_5",
+      "theme": "energy",
+      "difficulty": "EASY",
+      "question": "温泉のような地面の下の「熱」を使って電気を作るのは？",
+      "options": [
+        "バイオマス発電",
+        "風力発電",
+        "こたつ",
+        "地熱発電"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。地面の下にある地球の熱を使っているんだニャ。",
+       "incorrect": "残念ニャ！正解は「地熱発電」だニャ！地面の下にある地球の熱を使っているんだニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_energy_easy_6",
+      "theme": "energy",
+      "difficulty": "EASY",
+      "question": "日本で使っている電気の材料は、どこから来ているものが多い？",
+      "options": [
+        "日本の地面の下から掘り出す",
+        "お店で売っている",
+        "月から降ってくる",
+        "外国から買っている"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。日本は、電気の材料の多くを外国に頼っているんだニャ。",
+       "incorrect": "残念ニャ！正解は「外国から買っている」だニャ！日本は、電気の材料の多くを外国に頼っているんだニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_energy_easy_7",
+      "theme": "energy",
+      "difficulty": "EASY",
+      "question": "石油や石炭などの材料は、いつまでも使い続けられる？",
+      "options": [
+        "使えば使うほど増える",
+        "魔法で勝手に増える",
+        "いつかは無くなってしまう",
+        "食べたらおいしい"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。「何度でも新しく作ることができる」という意味なんだニャ。",
+        "incorrect": "残念ニャ！正解は「いつかは無くなってしまう」だニャ！「何度でも新しく作ることができる」という意味なんだニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_energy_easy_8",
+      "theme": "energy",
+      "difficulty": "EASY",
+      "question": "東広島市にある小学校でも行っている工夫はどれ？",
+      "options": [
+        "校庭にダムを作る",
+        "屋根に太陽光パネルを置く",
+        "教室を真っ暗にする",
+        "先生が走って電気を作る"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。龍王小学校などの屋根で電気を作っているんだニャ。",
+        "incorrect": "残念ニャ！正解は「屋根に太陽光パネルを置く」だニャ！龍王小学校などの屋根で電気を作っているんだニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_energy_easy_9",
+      "theme": "energy",
+      "difficulty": "EASY",
+      "question": "ゴミを燃やした時のガスなどから電気を作るのはどれ？",
+      "options": [
+        "水力発電",
+        "太陽光発電",
+        "バイオマス発電",
+        "かくれんぼ"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。ゴミを減らすことにもつながる、地球にやさしい方法なんだニャ。",
+       "incorrect": "残念ニャ！正解は「バイオマス発電」だニャ！ゴミを減らすことにもつながる、地球にやさしい方法なんだニャ。"
+      },
+      "timeLimit": 60,
+      "baseScore": 100
+    },
+    {
+      "id": "q_energy_normal_1",
+      "theme": "energy",
+      "difficulty": "NORMAL",
+      "question": "日本の発電方法の中で、最も大きな割合を占めているものはどれかな？",
+      "options": [
+        "原子力発電",
+        "火力発電",
+        "水力発電",
+        "人力発電"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。日本の電気の約7〜8割は火力発電で作られているんですニャ。",
+        "incorrect": "残念ニャ！正解は「火力発電」だニャ！日本の電気の約7〜8割は火力発電で作られているんですニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_energy_normal_2",
+      "theme": "energy",
+      "difficulty": "NORMAL",
+      "question": "再生可能エネルギーの定義として、最も適切なものはどれでしょう？",
+      "options": [
+        "高度な技術で人工的に作られたエネルギー",
+        "石油や石炭など有限なエネルギー",
+        "自然界に常に存在し枯渇しないエネルギー",
+        "魔法で無限に湧き出るエネルギー"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。太陽光や風力のように、自然の力でずっと使い続けられるのが大きな特徴ですニャ。",
+        "incorrect": "残念ニャ！正解は「自然界に常に存在し枯渇しないエネルギー」だニャ！太陽光や風力のように、自然の力でずっと使い続けられるのが大きな特徴ですニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_energy_normal_3",
+      "theme": "energy",
+      "difficulty": "NORMAL",
+      "question": "太陽光発電の特長（メリット）はどれでしょう？",
+      "options": [
+        "非常用電源として使えること",
+        "天候に関係なく一定量発電できる",
+        "夜間でも発電できること",
+        "太陽を涼しくすることができる"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。停電したときでも、お日様が出ていれば電気が使えるので心強いですねニャ。",
+        "incorrect": "残念ニャ！正解は「非常用電源として使えること」だニャ！停電したときでも、お日様が出ていれば電気が使えるので心強いですねニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_energy_normal_4",
+      "theme": "energy",
+      "difficulty": "NORMAL",
+      "question": "風力発電の課題（デメリット）として挙げられているものはどれかな？",
+      "options": [
+        "現状ではコストが高いこと",
+        "発電時に大量の二酸化炭素を出す",
+        "風が吹いている間しか発電できない",
+        "地球の自転を速くすること"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。もっと普及させるために、作るコストを下げていくことが今の大きな課題なんですニャ。",
+       "incorrect": "残念ニャ！正解は「現状ではコストが高いこと」だニャ！もっと普及させるために、作るコストを下げていくことが今の大きな課題なんですニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_energy_normal_5",
+      "theme": "energy",
+      "difficulty": "NORMAL",
+      "question": "地熱発電を行う際の課題として挙げられている点は何でしょう？",
+      "options": [
+        "地中の熱がいずれ冷めてなくなる",
+        "天気が悪いと地面が冷えて発電できない",
+        "地面が熱くなりすぎて人が住めなくなる",
+        "公園や温泉施設と場所が重なり、調整が必要なこと"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。いい場所が温泉地や公園にあることが多いので、地元の方との相談が大切なんですねニャ。",
+        "incorrect": "残念ニャ！正解は「公園や温泉施設と場所が重なり、調整が必要なこと」だニャ！いい場所が温泉地や公園にあることが多いので、地元の方との相談が大切なんですねニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_energy_normal_6",
+      "theme": "energy",
+      "difficulty": "NORMAL",
+      "question": "バイオマス発電の特長（メリット）は何でしょう？",
+      "options": [
+        "燃料資源が1か所に大量に集まっている",
+        "化石燃料よりも高温で発電できる",
+        "燃やすといい香りがしてリラックスできる",
+        "廃棄物の減少や資源の再利用につながること"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。ゴミを減らして資源を有効に使う、地球にとってもやさしい発電方法なんですよニャ。",
+        "incorrect": "残念ニャ！正解は「廃棄物の減少や資源の再利用につながること」だニャ！ゴミを減らして資源を有効に使う、地球にとってもやさしい発電方法なんですよニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_energy_normal_7",
+      "theme": "energy",
+      "difficulty": "NORMAL",
+      "question": "次のうち、サイトで定義されている「一次エネルギー」に含まれないのは？",
+      "options": [
+        "電気",
+        "天然ガス",
+        "太陽光",
+        "コーラ"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。電気はガスや太陽光といった「もとのエネルギー」を加工して作る「二次エネルギー」なんですニャ。",
+        "incorrect": "残念ニャ！正解は「電気」だニャ！おうちの中にあるテレビや冷蔵庫も、電気で動いているんだニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_energy_normal_8",
+      "theme": "energy",
+      "difficulty": "NORMAL",
+      "question": "地熱発電の導入において、日本特有の「課題」と言われていることは？",
+      "options": [
+        "発電後の残り湯を再利用できない",
+        "公園や温泉施設と場所が重なり、調整が必要なこと",
+        "天候が悪いと地面が冷える",
+        "数年で地熱が枯渇する"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。温泉大国の日本だからこそ、温泉地のみなさんとの協力がとっても重要なんですねニャ。",
+       "incorrect": "残念ニャ！正解は「公園や温泉施設と場所が重なり、調整が必要なこと」だニャ！いい場所が温泉地や公園にあることが多いので、地元の方との相談が大切なんですねニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_energy_normal_9",
+      "theme": "energy",
+      "difficulty": "NORMAL",
+      "question": "風力発電の特長（メリット）として、説明されている内容はどれでしょう？",
+      "options": [
+        "太陽が出ている昼間しか発電できない",
+        "設置コストが非常に安く手軽",
+        "屋内やビルの谷間でも発電できる",
+        "効率よく電気に変換でき、風があれば24時間発電可能"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。風さえあれば夜でもお休みせず、効率よく電気を作ってくれる頼もしい存在ですニャ。",
+       "incorrect": "残念ニャ！正解は「効率よく電気に変換でき、風があれば24時間発電可能」だニャ！風さえあれば夜でもお休みせず、効率よく電気を作ってくれる頼もしい存在ですニャ。"
+
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_energy_normal_10",
+      "theme": "energy",
+      "difficulty": "NORMAL",
+      "question": "日本のエネルギー自給率が低い主な原因は何でしょうか？",
+      "options": [
+        "化石燃料を使う火力発電が多く、燃料を輸入に頼っているから",
+        "再生可能エネルギーの技術が全くないから",
+        "日本の電力消費量が極端に少ないから",
+        "電気が透明でどこにあるか見つからないから"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。火力発電に使う石炭や石油のほとんどを、海外から買っているのが今の日本の姿なんですニャ。",
+        "incorrect": "残念ニャ！正解は「化石燃料を使う火力発電が多く、燃料を輸入に頼っているから」だニャ！火力発電に使う石炭や石油のほとんどを、海外から買っているのが今の日本の姿なんですニャ。"
+      },
+      "timeLimit": 45,
+      "baseScore": 200
+    },
+    {
+      "id": "q_energy_hard_1",
+      "theme": "energy",
+      "difficulty": "HARD",
+      "question": "「エネルギー自給率」とは、どのような意味の言葉でしょうか？",
+      "options": [
+        "電気がどれだけ余っているかを示す数値",
+        "1人が1日に使う電気の量のこと",
+        "食べ物の好き嫌いをなくす割合",
+        "生活や経済に必要なエネルギーのうち、自分の国で確保できる比率"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。日本はこの割合が低いため、海外から資源を買う必要がありますニャ。",
+        "incorrect": "残念ニャ！正解は「生活や経済に必要なエネルギーのうち、自分の国で確保できる比率」だニャ！日本はこの割合が低いため、海外から資源を買う必要がありますニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_energy_hard_2",
+      "theme": "energy",
+      "difficulty": "HARD",
+      "question": "日本の2021年度のエネルギー自給率は約何％（世界37位）でしょうか？",
+      "options": [
+        "13.3％",
+        "35.0％",
+        "5.0％",
+        "100％"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。ほかの先進国と比べても、かなり低いのが今の日本の現状なんだニャ。",
+        "incorrect": "残念ニャ！正解は「13.3％」だニャ！ほかの先進国と比べても、かなり低いのが今の日本の現状なんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_energy_hard_3",
+      "theme": "energy",
+      "difficulty": "HARD",
+      "question": "日本のエネルギー自給率が低くなってしまう主な理由は何ですか？",
+      "options": [
+        "日本人が電気を使いすぎているから",
+        "火力発電に使う石油や石炭などの「化石燃料」を海外に頼っているから",
+        "太陽光パネルを設置する場所がもう無いから",
+        "電線を引くのが面倒だから"
+      ],
+      "correctAnswer": 1,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。日本では化石燃料がほとんど採れないため、輸入が必要なんだニャ。",
+        "incorrect": "残念ニャ！正解は「火力発電に使う石油や石炭などの「化石燃料」を海外に頼っているから」だニャ！日本では化石燃料がほとんど採れないため、輸入が必要なんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_energy_hard_4",
+      "theme": "energy",
+      "difficulty": "HARD",
+      "question": "「一次エネルギー」の説明として正しいものはどれですか？",
+      "options": [
+        "石油・天然ガス・太陽光など、自然界にあるそのままの形のエネルギー",
+        "発電所で作られた後に届く「電気」のこと",
+        "世界で最初に発見された火の力のこと",
+        "1年生が使うエネルギーのこと"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。これを加工して使いやすくしたものが「電気」などの二次エネルギーだニャ。",
+        "incorrect": "残念ニャ！正解は「石油・天然ガス・太陽光など、自然界にあるそのままの形のエネルギー」だニャ！これを加工して使いやすくしたものが「電気」などの二次エネルギーだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_energy_hard_5",
+      "theme": "energy",
+      "difficulty": "HARD",
+      "question": "太陽光発電の「課題（困っていること）」としてサイトに書かれているのは？",
+      "options": [
+        "パネルを設置できる場所が日本にはどこにも無いこと",
+        "発電する時に大きな音が出て、うるさいこと",
+        "パネルに触ると火傷するほど熱いこと",
+        "天候（晴れや曇りなど）によって、発電量が左右されてしまうこと"
+      ],
+      "correctAnswer": 3,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。雨の日や夜は発電できないのが、今の大きな課題なんだニャ。",
+       "incorrect": "残念ニャ！正解は「天候（晴れや曇りなど）によって、発電量が左右されてしまうこと」だニャ！雨の日や夜は発電できないのが、今の大きな課題なんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_energy_hard_6",
+      "theme": "energy",
+      "difficulty": "HARD",
+      "question": "水力発電の特長として、正しいものはどれですか？",
+      "options": [
+        "数日で作れるので、開発コストがとても安い",
+        "太陽が出ていない夜の間は発電できない",
+        "一定の量の電力を、安定して長く供給できる",
+        "水をおいしくする効果がある"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。自然条件に左右されにくく、数十年にわたって発電し続けられるんだニャ。",
+        "incorrect": "残念ニャ！正解は「一定の量の電力を、安定して長く供給できる」だニャ！自然条件に左右されにくく、数十年にわたって発電し続けられるんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_energy_hard_7",
+      "theme": "energy",
+      "difficulty": "HARD",
+      "question": "地熱発電を行うときに、調整が必要になる「地元関係者」とは誰のこと？",
+      "options": [
+        "温泉施設や公園の管理者など",
+        "近くのガソリンスタンドの人",
+        "山に住んでいる動物たち",
+        "宇宙ステーションの職員"
+      ],
+      "correctAnswer": 0,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。地熱発電に適した場所は、温泉地などと重なることが多いからなんだニャ。",
+        "incorrect": "残念ニャ！正解は「温泉施設や公園の管理者など」だニャ！地熱発電に適した場所は、温泉地などと重なることが多いからなんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_energy_hard_8",
+      "theme": "energy",
+      "difficulty": "HARD",
+      "question": "バイオマス発電の特長として、正しいものはどれですか？",
+      "options": [
+        "燃料が1か所にまとまっているので、運搬コストが安い",
+        "24時間、太陽の光だけで発電し続ける",
+        "廃棄物（ゴミ）の減少や再利用につながる",
+        "食べられるゴミを増やす活動のこと"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。ゴミを燃やしたガスなどを利用するので、環境にやさしい取り組みなんだニャ。",
+        "incorrect": "残念ニャ！正解は「廃棄物（ゴミ）の減少や再利用につながる」だニャ！ゴミを燃やしたガスなどを利用するので、環境にやさしい取り組みなんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_energy_hard_9",
+      "theme": "energy",
+      "difficulty": "HARD",
+      "question": "東広島市が公共施設の省エネ化のために、龍王小学校などに設置したものは？",
+      "options": [
+        "巨大な風力発電の風車",
+        "火力発電所",
+        "太陽光発電システム",
+        "全自動お掃除ロボット100台"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。2017年度には龍王小学校にも設置され、地球にやさしい学校づくりが進んでいるニャ。",
+        "incorrect": "残念ニャ！正解は「太陽光発電システム」だニャ。2017年度には龍王小学校にも設置され、地球にやさしい学校づくりが進んでいるニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    },
+    {
+      "id": "q_energy_hard_10",
+      "theme": "energy",
+      "difficulty": "HARD",
+      "question": "どの地域でどの再生可能エネルギーが活用しやすいか調べられるツールの名前は？",
+      "options": [
+        "E-POS（イーポス）",
+        "Googleマップ",
+        "REPOS（リーポス）",
+        "お宝地図"
+      ],
+      "correctAnswer": 2,
+      "feedback": {
+        "correct": "正解ニャ！その通りニャ。環境省が提供しているオンラインツールで、地図を使って調べることができるんだニャ。",
+        "incorrect": "残念ニャ！正解は「REPOS（リーポス）」だニャ！環境省が提供しているオンラインツールで、地図を使って調べることができるんだニャ。"
+      },
+      "timeLimit": 30,
+      "baseScore": 300
+    }
+  ]
+}
